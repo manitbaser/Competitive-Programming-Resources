@@ -34,7 +34,7 @@ For different **data structures**, **GeeksforGeeks** articles are a lot helpful.
 15) Priority_queue/heaps( min/max): https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/
 
 
-Next thing should be to **get a hold of programming in C++. **HackerRank** is a good platform to do so( https://www.hackerrank.com). The interface is nice and solving basic problems will give you a gist of what comes next.
+Next thing should be to **get a hold of programming in C++.** **HackerRank** is a good platform to do so( https://www.hackerrank.com). The interface is nice and solving basic problems will give you a gist of what comes next.
 
 
 After programming on HackerRank for a week or so, one should get started with **topic wise questions** from either **LeetCode or InterviewBit**. The interface either site is amazing. InterviewBit gives more of a structured approach for CP practise, while the LeetCode community is definitely amazing. Even after solving a problem, one should look at the most liked solutions in the comment section of LeetCode and see how others may have used more optimized approach.
