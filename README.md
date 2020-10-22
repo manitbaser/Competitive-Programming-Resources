@@ -2,9 +2,9 @@
 Stuff which may help you to get started with/practice Competitive Programming
 
 
-**Choosing a language : 
+**Choosing a language :** 
 
-C++** makes life easier. It is the the most popular language of choice for competitive programmers as it is usually faster than Java and Python, and most of the resources are available in C++( Eg. STL).
+C++ makes life easier. It is the the most popular language of choice for competitive programmers as it is usually faster than Java and Python, and most of the resources are available in C++( Eg. STL).
 
 
 If you're complete new to it, it would be better to get a hold the **basic syntax** of C++. https://www.tutorialspoint.com/cplusplus/index.htm is a good way to go about learning it.
@@ -17,21 +17,21 @@ Learning a few sorting and searching algorithms helps in getting a good hold of 
 
 
 For different **data structures**, **GeeksforGeeks** articles are a lot helpful. I have tried to cover all of them here:-
-Arrays: https://www.geeksforgeeks.org/arrays-in-c-cpp/
-Vectors: https://www.geeksforgeeks.org/vector-in-cpp-stl/
-Stacks: https://www.geeksforgeeks.org/stack-data-structure/
-Queues: https://www.geeksforgeeks.org/queue-data-structure/ 
-Deque: https://www.geeksforgeeks.org/deque-set-1-introduction-applications/
-Linked list: https://www.geeksforgeeks.org/data-structures/linked-list/
-Doubly linked list: https://www.geeksforgeeks.org/doubly-linked-list/
-Trees: https://www.geeksforgeeks.org/binary-tree-data-structure/
-Graphs: https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
-Trie( hardly came in my use): https://www.geeksforgeeks.org/trie-insert-and-search/ 
-Ordered_maps/maps: https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/
-Unordered_maps/hashmaps/dictionary: https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/
-Ordered set/set: https://www.geeksforgeeks.org/set-in-cpp-stl/
-Unordered set/hashset: https://www.geeksforgeeks.org/unordered_set-in-cpp-stl/
-Priority_queue/heaps( min/max): https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/
+1)  Arrays: https://www.geeksforgeeks.org/arrays-in-c-cpp/
+2)  Vectors: https://www.geeksforgeeks.org/vector-in-cpp-stl/
+3)  Stacks: https://www.geeksforgeeks.org/stack-data-structure/
+4)  Queues: https://www.geeksforgeeks.org/queue-data-structure/ 
+5)  Deque: https://www.geeksforgeeks.org/deque-set-1-introduction-applications/
+6)  Linked list: https://www.geeksforgeeks.org/data-structures/linked-list/
+7)  Doubly linked list: https://www.geeksforgeeks.org/doubly-linked-list/
+8)  Trees: https://www.geeksforgeeks.org/binary-tree-data-structure/
+9)  Graphs: https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+10) Trie( hardly came in my use): https://www.geeksforgeeks.org/trie-insert-and-search/ 
+11) Ordered_maps/maps: https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/
+12) Unordered_maps/hashmaps/dictionary: https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/
+13) Ordered set/set: https://www.geeksforgeeks.org/set-in-cpp-stl/
+14) Unordered set/hashset: https://www.geeksforgeeks.org/unordered_set-in-cpp-stl/
+15) Priority_queue/heaps( min/max): https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/
 
 
 Next thing should be to **get a hold of programming in C++. **HackerRank** is a good platform to do so( https://www.hackerrank.com). The interface is nice and solving basic problems will give you a gist of what comes next.
@@ -67,3 +67,6 @@ A few algorithms which come in handy:
 
 
 If you still feel like further practise or temperament building is required, one should go for the **contests** on **CodeChef or Codeforces**. This will definitely help one to work on his/her speed and accuracy. After all, practice makes perfect. :)
+
+
+Feel free to reach out to me @ manitb06@gmail.com !
