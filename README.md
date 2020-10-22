@@ -56,7 +56,7 @@ A few algorithms which come in handy:
 6)  Kosaraju's Algorithm for Strongly Connected Components
 7)  Dijkstra's Algorithm for finding the Shortest Path
 8)  Bellman Ford
-9)  Topological Sort for Directed Acyclic Graph (6:35):
+9)  Topological Sort for Directed Acyclic Graph
 10) Floyd Warshall Algorithm for all pair Shortest Path
 11) Finding bridges in a graph: https://www.geeksforgeeks.org/bridge-in-a-graph/
 
