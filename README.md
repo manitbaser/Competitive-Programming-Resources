@@ -1,5 +1,5 @@
 # Competitive-Programming-Resources
-Stuff which may help you to get started with/practice Competitive Programming
+Stuff that may help you to get started with/practice Competitive Programming
 
 
 **Choosing a language:** 
@@ -37,7 +37,7 @@ For different **data structures**, **GeeksforGeeks** articles are a lot helpful.
 Next thing should be to **get a hold of programming in C++.** **HackerRank** is an excellent platform to do so( https://www.hackerrank.com). The interface is friendly, and solving fundamental problems will give you a gist of what comes next.
 
 
-After programming on HackerRank for a week or so, one should get started with **topic wise questions** from either **LeetCode or InterviewBit**. The interface of either site is fantastic. InterviewBit gives more of a structured approach for CP practise, while the LeetCode community is incredible. Even after solving a problem, one should look at the most liked solutions in the comment section of LeetCode and see how others may have used a more optimized approach.
+After programming on HackerRank for a week or so, one should get started with **topic wise questions** from either **LeetCode or InterviewBit**. The interface of either site is fantastic. InterviewBit gives more of a structured approach for CP practise, while the LeetCode community is incredible. Even after solving a problem, one should look at the most liked solutions in the comment section of LeetCode and see how others may have used a more optimized approach. One can opt to solve the LeetCode’s top interview questions (https://leetcode.com/explore/featured/card/top-interview-questions-easy/) if the interviews are not so far away.
 
 
 **Some resources for specific topics:**
@@ -62,7 +62,8 @@ A few algorithms which come in handy:
 
 **Revising for upcoming interviews:**
 
-1) https://docs.google.com/document/u/1/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/mobilebasic
+1) When the interviews are only a month away (would recommend revising from here):
+      https://docs.google.com/document/u/1/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/mobilebasic
 2) Going through the problems on **GeeksforGeeks Archives** is a must. By doing this, one gets a pretty good idea which type of questions to expect and what topic to revise further. Also, I have observed that questions **often**( couldn't emphasize more) repeat and you're in luck if you already know the approach/solution. :P
 
 
